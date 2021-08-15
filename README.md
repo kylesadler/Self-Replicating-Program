@@ -1,4 +1,4 @@
 # Self-Replicating-Program
-a program that replicates itself  
+`replicator.py` replicates itself  
 
 `print_replicator.py` prints itself
